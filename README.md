@@ -49,7 +49,6 @@ $data = [
     'currency_value' => 120,
     'redirect_url' => 'http://redirect.com/call.php',
     'cancelled_url' => 'http://cancelled.com/call.php',
-    'return_type' => 'POST',
     'metadata' => ["demo1" => "data1", "demo2" => "data2"],
     'webhook' => ["success" => "https://webhook.com/success.php", "cancel" => "https://webhook.com/cancelled.php"],
 ];
